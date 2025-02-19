@@ -1,12 +1,5 @@
 
-/* body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #121212;
-    color: #ffffff;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-} */
+
 
 header {
     background: #1e1e1e;
@@ -66,15 +59,15 @@ body {
     padding: 0 50px;
     background: linear-gradient(to right, #1e1e1e, #2c2c2c);
     text-align: center;
-    flex-direction: row;  /* Ensures the text and image are side by side */
+    flex-direction: row;  
 }
 
-/* Hero Content */
+
 .hero-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 100%;  /* Takes up full width */
+    width: 100%;  
 }
 
 
@@ -87,7 +80,7 @@ body {
     margin-top: 100px;
 }
 
-/* Social Icon Style */
+
 .social-icon {
     color: #80b48c;
     font-size: 1.5em;
@@ -95,10 +88,10 @@ body {
 }
 
 .social-icon:hover {
-    color: #6a9a76;  /* Darker green when hovered */
+    color: #6a9a76; 
 }
 
-/* Hero Text */
+
 .hero-text {
     flex: 1;
     max-width: 1500px;
